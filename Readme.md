@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to set the text max length in the ASPxMemo control
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4334)**
+**[[Run Online]](https://codecentral.devexpress.com/e4334/)**
 <!-- run online end -->
 
 
